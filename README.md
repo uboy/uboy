@@ -13,6 +13,10 @@
 - **[InsightAudio](https://github.com/uboy/InsightAudio)**. Полностью локальная транскрипция аудио и видео со структурированными пересказами.
 - **[VoxFusion](https://github.com/uboy/VoxFusion)**. Захват системного звука, транскрипция с диаризацией и переводом в реальном времени.
 
+### Оценка LLM и бенчмарки
+
+- **[llm-coding-upgrade](https://github.com/uboy/llm-coding-upgrade)**. Стенд оценки LLM: self-hosted инференс на llama.cpp (Tesla V100, RTX 3090) и результаты прогонов MMLU-Pro, BFCL, IFEval, LiveCodeBench, HumanEval+; свои скрипты-клиенты и рецепты Volta (sm_70).
+
 ### Инструменты для AI-агентов
 
 - **[AICodingAgentsAndSkills](https://github.com/uboy/AICodingAgentsAndSkills)**. Общие политики, скиллы и конфиги раннеров для AI-агентов (Claude Code, Codex, OpenCode).
